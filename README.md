@@ -1,9 +1,12 @@
 # curriculumvitae
+
   Crear un proyecto desde cero con React para aprender a utilizar diferentes herramientas hasta realizar el Deployment
  - [Web application](https://cayundiego.github.io/curriculumvitae/)
    
 ## Deployment
- * [Travis](https://travis-ci.org/) [![Build Status](https://travis-ci.org/CayunDiego/curriculumvitae.svg?branch=develop)](https://travis-ci.org/CayunDiego/curriculumvitae)
+[![Build Status](https://travis-ci.org/CayunDiego/curriculumvitae.svg?branch=develop)]
+
+ * [Travis](https://travis-ci.org/) (https://travis-ci.org/CayunDiego/curriculumvitae)
  * [Github Pages](https://cayundiego.github.io/curriculumvitae/)
   
 
@@ -24,7 +27,6 @@
 ---
 
 ## License
-
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
