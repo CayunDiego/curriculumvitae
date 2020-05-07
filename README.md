@@ -1,10 +1,10 @@
 # curriculumvitae
   Crear un proyecto desde cero con React para aprender a utilizar diferentes herramientas hasta realizar el Deployment
- - Facebook Developer Circle: Córdoba.
- 
+ - [Web application](https://cayundiego.github.io/curriculumvitae/)
+   
 ## Deployment
  * [Travis](https://travis-ci.org/) [![Build Status](https://travis-ci.org/CayunDiego/curriculumvitae.svg?branch=develop)](https://travis-ci.org/CayunDiego/curriculumvitae)
- * [Github Pages]
+ * [Github Pages](https://cayundiego.github.io/curriculumvitae/)
   
 
 ## Built With
@@ -21,10 +21,16 @@
 
 * [**Diego Saúl Cayún García**](https://www.linkedin.com/in/diego-saul-cayun-garcia/) 
 
+---
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2020 © [**Diego Saúl Cayún García**](https://www.linkedin.com/in/diego-saul-cayun-garcia/) 
+
+---
 
 ## Acknowledgments
 
