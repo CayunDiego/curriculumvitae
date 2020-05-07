@@ -4,9 +4,9 @@
  - [Web application](https://cayundiego.github.io/curriculumvitae/)
    
 ## Deployment
-[![Build Status](https://travis-ci.org/CayunDiego/curriculumvitae.svg?branch=develop)]
+[![Build Status](https://travis-ci.org/CayunDiego/curriculumvitae.svg?branch=develop)](https://travis-ci.org/CayunDiego/curriculumvitae)
 
- * [Travis](https://travis-ci.org/) (https://travis-ci.org/CayunDiego/curriculumvitae)
+ * [Travis](https://travis-ci.org/) 
  * [Github Pages](https://cayundiego.github.io/curriculumvitae/)
   
 
