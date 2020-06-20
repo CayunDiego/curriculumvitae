@@ -57,7 +57,7 @@ const About = ({ avatar, name, profession, bio, address, social }) => (
         <div className="About-container">
             <AboutAvatar className="About-avatar">
                 <figure>
-                    <AboutImg src="https://www.diariodequeretaro.com.mx/finanzas/tecnologia/97djo4-pikachu.jpg/ALTERNATES/LANDSCAPE_400/pikachu.jpg" alt={name} />
+                    <AboutImg src={avatar} alt={name} />
                 </figure>
             </AboutAvatar>
             <AboutName>

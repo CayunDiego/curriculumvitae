@@ -13,8 +13,8 @@ const SocialUl = styled.ul`
 `;
 
 const SocialLi = styled.li`
+    margin: 0 .5em;
     display: inline;
-    margin: 0 1em 0 0;
 `;
 
 const SocialAnchor = styled.a`
@@ -25,6 +25,8 @@ const SocialAnchor = styled.a`
 
 const SocialIcon = styled.i`
     color: ${props => props.theme.color};
+    width: 19px;
+    
 `;
 
 const facebook = {
