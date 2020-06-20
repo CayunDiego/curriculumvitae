@@ -26,7 +26,6 @@ const SocialAnchor = styled.a`
 const SocialIcon = styled.i`
     color: ${props => props.theme.color};
     width: 19px;
-    
 `;
 
 const facebook = {
